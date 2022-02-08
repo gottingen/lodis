@@ -1,0 +1,2 @@
+# lodis
+local dictionary store
